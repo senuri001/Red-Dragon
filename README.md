@@ -134,7 +134,7 @@ Recommended WhatsApp👇
 	
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KumuthuPrabhash/Red-Dragon-Bot-Qr-Code?v=1)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/senuri001/Red-Dragon)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/https://heroku.com/senuri001/Red-Dragon)
 </div>
 
 ## Thanks To
